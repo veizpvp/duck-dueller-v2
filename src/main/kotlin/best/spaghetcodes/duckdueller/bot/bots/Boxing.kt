@@ -14,7 +14,7 @@ import net.minecraft.util.Vec3
 import java.util.*
 import kotlin.math.abs
 
-class Boxing : BotBase("/play duels_boxing_duel"), MovePriority {
+class Boxing : BotBase("/play duels_blitz_duel"), MovePriority {
 
     override fun getName(): String {
         return "Boxing"
